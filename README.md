@@ -1,5 +1,7 @@
 # Grad_Math_project-2
 
+# Do Modelling Papers Lie to US?
+
 The paper had 4 different types of model which the author had used to model the immune responses of mice inoculated with both H5N1 and H1N1. The model which had all the parameters with value was model 4. 
 - Due to this, my assessment will also use model 4, i.e., the values of $r_{I,M}$ and $r_{V,M}$ will be set to an arbitrarily low number (1e-04 units). The paper sets these values to 0, but a value of 0 cannot be used to perform parametric sensitivity analysis.
 
